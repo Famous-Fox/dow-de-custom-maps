@@ -1,7 +1,7 @@
 # Dawn of War - Definitive Edition: Custom Maps
 Custom, self-created maps for the multiplayer mode of **Dawn of War - Definitive Edition**.
 
-Custom maps for Dawn of War - Definitive Edition multiplayer mode. Custom maps for various game modes (Team, Free-for-All, etc.) will be published here. There aren't many maps yet, but more will be added later.
+Custom maps for various game modes (Team, Free-for-All, etc.) will be published here. There aren't many maps yet, but more will be added later.
 
 # Maps Name List
 ### 1 vs 1
