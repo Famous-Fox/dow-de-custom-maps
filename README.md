@@ -3,7 +3,7 @@ Custom, self-created maps for the multiplayer mode of **Dawn of War - Definitive
 
 Custom maps for various game modes (Team, Free-for-All, etc.) will be published here. There aren't many maps yet, but more will be added later.
 
-# Maps Name List
+# :page_facing_up: Maps Name List
 ### 1 vs 1
 
 * [The Emperor's Gardens (2)](Maps%20List/The%20Emperor's%20Gardens%20(2).md)
