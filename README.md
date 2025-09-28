@@ -7,10 +7,12 @@ Here we will publish our own maps for various modes of multiplayer games.
 ### 1 vs 1
 
 * [The Emperor's Gardens (2)](Maps%20List/The%20Emperor's%20Gardens%20(2).md)
+<img width="512" height="512" alt="The Emperor's Gardens Map" src="https://github.com/user-attachments/assets/7433012f-81ea-4b3a-a296-fd612e71b3a3" />
 
 ### 2 vs 2
 
 * [Path of Sadness (4)](Maps%20List/Path%20of%20Sadness%20(4).md)
+<img width="512" height="512" alt="Path of Sadness Map" src="https://github.com/user-attachments/assets/0d030024-3c12-4856-8426-652a2d77b9d3" />
 
 # :ledger: Installation
 :arrow_right: Download the entire repository in **.zip** format;<br>
