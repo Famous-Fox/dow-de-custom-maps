@@ -19,6 +19,6 @@ Here we will publish our own maps for various modes of multiplayer games.
 :arrow_right: Move the **DXP3** folder to the main, root folder with the game **Dawn of War Definitive Edition** (with file replacement).<br>
 :arrow_right: Launch the game and play! :crossed_swords: <br>
 
-# Acknowledgements
+# :moneybag: Acknowledgements
 
 If you would like to support the author financially for his work, then: [Donate](https://donatello.to/famousfox16621366)
