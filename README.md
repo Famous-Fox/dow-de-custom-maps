@@ -8,7 +8,7 @@ Here we will publish our own maps for various modes of multiplayer games.
 
 ### 2 vs 2
 
-* [Path of Sadness (4)](Maps-List/Path-of-Sadness-(4).md)
+* [Path of Sadness (4)](Maps List/Path of Sadness (4).md)
 
 # :ledger: Installation
 :arrow_right: Download the entire repository in **.zip** format;<br>
