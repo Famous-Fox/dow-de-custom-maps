@@ -7,7 +7,8 @@ Custom maps for various game modes (Team, Free-for-All, etc.) will be published 
 ### 1 vs 1
 
 * [The Emperor's Gardens (2)](Maps%20List/The%20Emperor's%20Gardens%20(2).md)
-<img width="512" height="512" alt="The Emperor's Gardens Map" src="https://github.com/user-attachments/assets/7433012f-81ea-4b3a-a296-fd612e71b3a3" />
+<img width="512" height="512" alt="Path of Sadness Map" src="https://github.com/user-attachments/assets/5dbd3a23-419f-49c0-b3c3-80cda7499439" />
+
 
 ### 2 vs 2
 
