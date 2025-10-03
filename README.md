@@ -12,7 +12,8 @@ Custom maps for various game modes (Team, Free-for-All, etc.) will be published 
 ### 2 vs 2
 
 * [Path of Sadness (4)](Maps%20List/Path%20of%20Sadness%20(4).md)
-<img width="512" height="512" alt="Path of Sadness Map" src="https://github.com/user-attachments/assets/dd3054eb-8776-4698-9ce0-0b6ce2303f79" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c864e48d-b2c6-4930-a8b3-1862534f8479" />
+
 
 # :ledger: Installation
 :arrow_right: Download the entire repository in **.zip** format;<br>
