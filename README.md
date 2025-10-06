@@ -3,6 +3,8 @@ Custom, self-created maps for the multiplayer mode of **Dawn of War - Definitive
 
 Custom maps for various game modes (Team, Free-for-All, etc.) will be published here. There aren't many maps yet, but more will be added later.
 
+Maps may be updated over time, so keep an eye on the versions in this repository.
+
 # :page_facing_up: Maps Name List
 ### 1 vs 1
 
