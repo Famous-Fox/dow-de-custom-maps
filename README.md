@@ -1,4 +1,4 @@
-# Dawn of War - Definitive Edition: Custom Maps
+# <img align="top" width="40" height="45" alt="DowMD" src="https://github.com/user-attachments/assets/99ae2382-443f-43cf-a48b-62c8d7f16692" /> Dawn of War - Definitive Edition: Custom Maps
 Custom, self-created maps for the multiplayer mode of **Dawn of War - Definitive Edition**.
 
 Custom maps for various game modes (Team, Free-for-All, etc.) will be published here. There aren't many maps yet, but more will be added later.
