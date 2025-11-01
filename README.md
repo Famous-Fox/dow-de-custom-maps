@@ -18,9 +18,9 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 
 
 # :ledger: Installation (manually)
-:arrow_right: Download the entire repository in **.zip** format;<br>
-:arrow_right: Move the **DXP3** folder to the main, root folder with the game **Dawn of War Definitive Edition** (with file replacement).<br>
-:arrow_right: Launch the game and play! :crossed_swords: <br>
+:one: Download the entire repository in **.zip** format;<br>
+:two: Move the **DXP3** folder to the main, root folder with the game **Dawn of War Definitive Edition** (with file replacement).<br>
+:three: Launch the game and play! :crossed_swords: <br>
 
 If you don't want to install maps manually every time, you can use the DowMD.exe program (console application). DowMD automatically installs maps from this repository to your game.
 # :arrow_heading_down: Installation (auto)
