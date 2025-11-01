@@ -17,7 +17,11 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c864e48d-b2c6-4930-a8b3-1862534f8479" />
 
 
-# :ledger: Installation
+# :ledger: Installation (manually)
 :arrow_right: Download the entire repository in **.zip** format;<br>
 :arrow_right: Move the **DXP3** folder to the main, root folder with the game **Dawn of War Definitive Edition** (with file replacement).<br>
 :arrow_right: Launch the game and play! :crossed_swords: <br>
+
+If you don't want to install maps manually every time, you can use the DowMD.exe program (console application). DowMD automatically installs maps from this repository to your game.
+# :arrow_heading_down: Installation (auto)
+:arrow_right: See automatic installation [here](https://github.com/Famous-Fox/dowmd-downoader).
