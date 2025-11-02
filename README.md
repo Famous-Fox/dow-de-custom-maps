@@ -11,6 +11,9 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 * [The Emperor's Gardens (2)](Maps%20List/The%20Emperor's%20Gardens%20(2).md)
 <img width="512" height="512" alt="The Emperor's Gardens Map" src="https://github.com/user-attachments/assets/7433012f-81ea-4b3a-a296-fd612e71b3a3" />
 
+* [Frozen City (2)](Maps%20List/Frozen%20City%20(2).md)
+<img width="512" height="512" alt="Frozen City Map" src="https://github.com/user-attachments/assets/3cc18260-5d29-4ed5-b2d5-b239000d3c4a" />
+
 ### 2 vs 2
 
 * [Path of Sadness (4)](Maps%20List/Path%20of%20Sadness%20(4).md)
