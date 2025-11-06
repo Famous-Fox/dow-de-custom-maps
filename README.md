@@ -12,7 +12,7 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 <img width="512" height="512" alt="The Emperor's Gardens Map" src="https://github.com/user-attachments/assets/7433012f-81ea-4b3a-a296-fd612e71b3a3" />
 
 * [Frozen City (2)](Maps%20List/Frozen%20City%20(2).md)
-<img width="512" height="512" alt="Frozen City Map" src="https://github.com/user-attachments/assets/3cc18260-5d29-4ed5-b2d5-b239000d3c4a" />
+<img width="512" height="512" alt="Frozen City Map" src="https://github.com/user-attachments/assets/470b92b0-0fb3-4101-9a0b-6cf099380405" />
 
 ### 2 vs 2
 
