@@ -5,7 +5,6 @@
 * Strategic Points: 8
 * Relic Points: 2
 * Critical Points: 1
-* Screenshots
 
 ### Screenshots
 <img width="1643" height="929" alt="10" src="https://github.com/user-attachments/assets/432fb9ab-2bd4-473b-a068-078402eea614" />
