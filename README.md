@@ -19,6 +19,11 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 * [Path of Sadness (4)](Maps%20List/Path%20of%20Sadness%20(4).md)
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c864e48d-b2c6-4930-a8b3-1862534f8479" />
 
+### 4 vs 4
+
+* [Deceptive Wasteland (8)](Maps%20List/Deceptive%20Wasteland%20(8).md)
+<img width="512" height="512" alt="Deceptive Wasteland Map" src="https://github.com/user-attachments/assets/79ef4869-cb15-4a0e-9f11-14c699f2a0ba" />
+
 
 # :ledger: Installation (manually)
 :one: Download the latest archive from the release (or the repository itself);<br>
