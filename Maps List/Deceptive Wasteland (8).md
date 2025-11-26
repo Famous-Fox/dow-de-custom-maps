@@ -2,7 +2,7 @@
 
 * Mode: Teams, FFA, FFA (Teams)
 * Size: 512x512
-* Strategic Points: 28
+* Strategic Points: 32
 * Relic Points: 4
 * Critical Points: 1
 * Slag Deposits: 4
