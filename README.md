@@ -22,7 +22,7 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 ### 4 vs 4
 
 * [Deceptive Wasteland (8)](Maps%20List/Deceptive%20Wasteland%20(8).md)
-<img width="512" height="512" alt="Deceptive Wasteland Map" src="https://github.com/user-attachments/assets/79ef4869-cb15-4a0e-9f11-14c699f2a0ba" />
+<img width="512" height="512" alt="Deceptive Wasteland Map" src="https://github.com/user-attachments/assets/9820aac9-b6dc-437a-ae55-c461727db1dd" />
 
 
 # :ledger: Installation (manually)
