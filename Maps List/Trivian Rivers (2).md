@@ -2,7 +2,7 @@
 
 * Mode: Teams
 * Size: 256x256
-* Availability of cover: Negative, Light.
+* Covers: Negative, Light.
 * Strategic Points: 8
 * Relic Points: 2
 * Critical Points: 3
