@@ -2,7 +2,7 @@
 
 * Mode: Teams, FFA, FFA (Teams)
 * Size: 512x512
-* Availability of cover: Heavy
+* Covers: Heavy
 * Strategic Points: 32
 * Relic Points: 4
 * Critical Points: 1
