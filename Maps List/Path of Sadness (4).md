@@ -2,7 +2,7 @@
 
 * Mode: Teams, FFA
 * Size: 256x256
-* Availability of cover: Heavy
+* Covers: Heavy
 * Strategic Points: 12
 * Relic Points: 4
 * Slag Deposits: 4
