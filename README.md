@@ -12,7 +12,10 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 <img width="512" height="512" alt="The Emperor's Gardens Map" src="https://github.com/user-attachments/assets/7433012f-81ea-4b3a-a296-fd612e71b3a3" />
 
 * [Frozen City (2)](Maps%20List/Frozen%20City%20(2).md)
-<img width="512" height="512" alt="Frozen City Map" src="https://github.com/user-attachments/assets/470b92b0-0fb3-4101-9a0b-6cf099380405" />
+<img width="512" height="512" alt="Frozen City Map" src="https://github.com/user-attachments/assets/88a1b02b-2a79-40af-9e27-a6827836f92d" />
+
+* [Trivian Rivers (2)](Maps%20List/Trivian%20Rivers%20(2).md)
+<img width="512" height="512" alt="Trivian Rivers Map" src="https://github.com/user-attachments/assets/b0310f9a-f23a-40db-b59c-6fc25b613920" />
 
 ### 2 vs 2
 
