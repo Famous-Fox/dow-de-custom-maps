@@ -17,6 +17,9 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 * [Trivian Rivers (2)](Maps%20List/Trivian%20Rivers%20(2).md)
 <img width="512" height="512" alt="Trivian Rivers Map" src="https://github.com/user-attachments/assets/b0310f9a-f23a-40db-b59c-6fc25b613920" />
 
+* [Weeping City (2)](Maps%20List/Weeping%20City%20(2).md)
+<img width="512" height="512" alt="Weeping City Map" src="https://github.com/user-attachments/assets/99949632-a28c-4ac5-93a0-2c05909c81b3" />
+
 ### 2 vs 2
 
 * [Path of Sadness (4)](Maps%20List/Path%20of%20Sadness%20(4).md)
