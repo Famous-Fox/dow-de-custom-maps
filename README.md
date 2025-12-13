@@ -25,6 +25,9 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 * [Path of Sadness (4)](Maps%20List/Path%20of%20Sadness%20(4).md)
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c864e48d-b2c6-4930-a8b3-1862534f8479" />
 
+* [Coastal Harbor (4)](Maps%20List/Coastal%20Harbor%20(4).md)
+<img width="512" height="512" alt="Coastal Harbor Map" src="https://github.com/user-attachments/assets/35ac048a-dfff-4ff8-ab3b-58914aa0662f" />
+
 ### 4 vs 4
 
 * [Deceptive Wasteland (8)](Maps%20List/Deceptive%20Wasteland%20(8).md)
