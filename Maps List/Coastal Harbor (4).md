@@ -8,8 +8,8 @@
 * Critical Points: 1
 
 ### Screenshots
-<img width="1643" height="928" alt="34" src="https://github.com/user-attachments/assets/b27d4e84-7570-4aaa-a600-b260cb2c0583" />
-<img width="1643" height="929" alt="36" src="https://github.com/user-attachments/assets/6aa13ec5-1e92-4543-9615-33adb2fbb79b" />
-<img width="1643" height="929" alt="35" src="https://github.com/user-attachments/assets/5e54bb48-5552-455b-8514-aa78cd86bb5e" />
-<img width="1644" height="930" alt="37" src="https://github.com/user-attachments/assets/77443310-335a-4656-bf68-04d5296cc4be" />
-<img width="1643" height="929" alt="33" src="https://github.com/user-attachments/assets/113a706a-5faf-4137-a581-421e8a1a6f9e" />
+<img width="1643" height="930" alt="34" src="https://github.com/user-attachments/assets/d95ad7be-ed8f-42a0-9c1d-480098b18f72" />
+<img width="1644" height="928" alt="36" src="https://github.com/user-attachments/assets/cc16a5ca-94ec-44bf-87ea-c50fc1b88056" />
+<img width="1643" height="929" alt="35" src="https://github.com/user-attachments/assets/02497cf7-2576-4a6c-a9da-078e7d68033f" />
+<img width="1643" height="929" alt="37" src="https://github.com/user-attachments/assets/87986e3a-3a21-40e1-8ac5-9cc1d97e4144" />
+<img width="1641" height="929" alt="33" src="https://github.com/user-attachments/assets/895b5101-b36b-46ff-9d1a-591424121b12" />
