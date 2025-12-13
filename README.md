@@ -26,7 +26,7 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c864e48d-b2c6-4930-a8b3-1862534f8479" />
 
 * [Coastal Harbor (4)](Maps%20List/Coastal%20Harbor%20(4).md)
-<img width="512" height="512" alt="Coastal Harbor Map" src="https://github.com/user-attachments/assets/35ac048a-dfff-4ff8-ab3b-58914aa0662f" />
+<img width="512" height="512" alt="Coastal Harbor Map" src="https://github.com/user-attachments/assets/3f637035-c8a7-4c80-8074-dbef6eebd2fd" />
 
 ### 4 vs 4
 
