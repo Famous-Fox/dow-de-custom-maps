@@ -1,6 +1,6 @@
 # Deceptive Wasteland (8)
 
-* Mode: Teams, FFA, FFA (Teams)
+* Mode: Teams, FFA (Teams)
 * Size: 512x512
 * Covers: Heavy
 * Strategic Points: 32
