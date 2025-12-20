@@ -28,6 +28,12 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 * [Coastal Harbor (4)](Maps%20List/Coastal%20Harbor%20(4).md)
 <img width="512" height="512" alt="Coastal Harbor Map" src="https://github.com/user-attachments/assets/3f637035-c8a7-4c80-8074-dbef6eebd2fd" />
 
+* [Exotic Island (4)](Maps%20List/Exotic%20Island%20(4).md)
+<img width="512" height="512" alt="Exotic Island Map" src="https://github.com/user-attachments/assets/511427a0-9722-44c3-af39-06992d0b01db" />
+
+* [Imperial Port (4)](Maps%20List/Imperial%20Port%20(4).md)
+<img width="512" height="512" alt="Imperial Port Map" src="https://github.com/user-attachments/assets/4593fd64-3185-4d91-a3bb-7c82edc9efbe" />
+
 ### 4 vs 4
 
 * [Deceptive Wasteland (8)](Maps%20List/Deceptive%20Wasteland%20(8).md)
