@@ -34,6 +34,11 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 * [Imperial Port (4)](Maps%20List/Imperial%20Port%20(4).md)
 <img width="512" height="512" alt="Imperial Port Map" src="https://github.com/user-attachments/assets/4593fd64-3185-4d91-a3bb-7c82edc9efbe" />
 
+### 3 vs 3
+
+* [Docks of Ares (6)](Maps%20List/Docks%20of%20Ares%20(6).md)
+<img width="512" height="512" alt="Docks of Ares Map" src="https://github.com/user-attachments/assets/bbb0fd04-e9fa-4827-9183-e4c252d1fec3" />
+
 ### 4 vs 4
 
 * [Deceptive Wasteland (8)](Maps%20List/Deceptive%20Wasteland%20(8).md)
