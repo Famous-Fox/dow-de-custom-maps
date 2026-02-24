@@ -39,6 +39,9 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 * [Docks of Ares (6)](Maps%20List/Docks%20of%20Ares%20(6).md)
 <img width="512" height="512" alt="Docks of Ares Map" src="https://github.com/user-attachments/assets/bbb0fd04-e9fa-4827-9183-e4c252d1fec3" />
 
+* [Lava Metallurgy (6)](Maps%20List/Lava%20Metallurgy%20(6).md)
+<img width="512" height="512" alt="Lava Metallurgy Map" src="https://github.com/user-attachments/assets/46159d07-5696-4361-b9e2-4b89c90925db" />
+
 ### 4 vs 4
 
 * [Deceptive Wasteland (8)](Maps%20List/Deceptive%20Wasteland%20(8).md)
