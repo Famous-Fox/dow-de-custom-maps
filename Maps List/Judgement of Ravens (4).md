@@ -1,6 +1,6 @@
 # Judgement of Ravens (4)
 
-* Mode: Teams
+* Mode: Teams, FFA
 * Size: 512x512
 * Covers: Heavy
 * Strategic Points: 14
