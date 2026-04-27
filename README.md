@@ -20,6 +20,11 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 * [Weeping City (2)](Maps%20List/Weeping%20City%20(2).md)
 <img width="512" height="512" alt="Weeping City Map" src="https://github.com/user-attachments/assets/99949632-a28c-4ac5-93a0-2c05909c81b3" />
 
+### 3 players
+
+* [Cold Trick (3)](Maps%20List/Cold%20Trick%20(3).md)
+<img width="512" height="512" alt="Cold Trick map" src="https://github.com/user-attachments/assets/898c73aa-3609-41a1-ad26-6558e146d583" />
+
 ### 2 vs 2
 
 * [Path of Sadness (4)](Maps%20List/Path%20of%20Sadness%20(4).md)
@@ -44,6 +49,9 @@ Maps may be updated over time, so keep an eye on the versions in this repository
 
 * [Lava Metallurgy (6)](Maps%20List/Lava%20Metallurgy%20(6).md)
 <img width="512" height="512" alt="Lava Metallurgy Map" src="https://github.com/user-attachments/assets/3d711fa2-6158-4097-98d0-6b77138cb37a" />
+
+* [Desert of Death (6)](Maps%20List/Desert%20of%20Death%20(6).md)
+<img width="512" height="512" alt="Desert of Death map" src="https://github.com/user-attachments/assets/3f888584-3c30-47f9-b572-0459db5673e2" />
 
 ### 4 vs 4
 
